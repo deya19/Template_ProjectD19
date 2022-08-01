@@ -104,6 +104,10 @@ nav ul li a{
     transition: 0.4s;
 }
 
+nav ul li .pointer{
+    cursor: pointer;
+}
+
 nav ul li a:hover{
 color: var(--primaycolor);
 
